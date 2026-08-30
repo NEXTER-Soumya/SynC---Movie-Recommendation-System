@@ -1,8 +1,8 @@
 <img width="1905" height="1080" alt="image" src="https://github.com/user-attachments/assets/840a02df-6a51-4eab-a417-75c642947547" />
 
-# 🎬 CineMatch — Movie Recommendation System
+# 🎬 SynC — Movie Recommendation System
 
-CineMatch is a content-based movie recommendation system built with Python, scikit-learn, NLTK, Streamlit, and the TMDB API.
+SynC is a content-based movie recommendation system built with Python, scikit-learn, NLTK, Streamlit, and the TMDB API.
 
 The system recommends movies based on the similarity of their textual and metadata features rather than relying on user ratings or collaborative filtering.
 
@@ -14,7 +14,7 @@ The project was developed in two stages:
 
 ## 📌 What Is This Project?
 
-CineMatch answers:
+SynC answers:
 
 > **“I like this movie. What other movies should I watch?”**
 
@@ -361,7 +361,7 @@ The UI uses a dark cinematic design inspired by streaming platforms.
 The main page contains:
 
 ```text
-CINEMATCH
+SynC
 
 Find your next movie.
 
@@ -722,7 +722,7 @@ Open that URL in your browser to use CineMatch.
 
 # 🧠 Why Content-Based?
 
-CineMatch is content-based because recommendations are determined from **movie characteristics**.
+SynC is content-based because recommendations are determined from **movie characteristics**.
 
 The system does not require:
 
@@ -966,7 +966,7 @@ If a real API key is ever accidentally exposed publicly, revoke or rotate it.
 
 # 👨‍💻 Project Summary
 
-CineMatch demonstrates an end-to-end machine-learning application:
+SynC demonstrates an end-to-end machine-learning application:
 
 ```text
 Data
