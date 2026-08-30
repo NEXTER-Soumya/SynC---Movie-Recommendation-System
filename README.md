@@ -1,3 +1,4 @@
+<img width="1905" height="1080" alt="image" src="https://github.com/user-attachments/assets/840a02df-6a51-4eab-a417-75c642947547" />
 # 🎬 CineMatch — Movie Recommendation System
 
 CineMatch is a content-based movie recommendation system built with Python, scikit-learn, NLTK, Streamlit, and the TMDB API.
@@ -1011,13 +1012,17 @@ At the heart of CineMatch is a simple mathematical idea:
 \[
 oxed{
 	ext{Movie Content}
-ightarrow
+
+ightarrow
 	ext{Numerical Representation}
-ightarrow
+
+ightarrow
 	ext{Similarity}
-ightarrow
+
+ightarrow
 	ext{Ranking}
-ightarrow
+
+ightarrow
 	ext{Recommendation}
 }
 \]
